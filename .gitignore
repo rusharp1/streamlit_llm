@@ -1,5 +1,5 @@
+chroma/
+llm-application/
 .env
 __pycache__/
 .venv/
-.chroma/
-.llm-application/
